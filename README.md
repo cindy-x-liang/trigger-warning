@@ -1,7 +1,8 @@
 # Trigger Warning is a chrome extension that sends an alert warning users if a website contains triggering information. 
 
 An example:
-<img width="899" alt="IMG_6429" src="https://github.com/cindy-x-liang/trigger-warning/assets/67083541/72050ced-d1ab-435f-9619-55884ebfb33a">
+<img width="776" alt="IMG_7162" src="https://github.com/cindy-x-liang/trigger-warning/assets/67083541/07d5abad-4d82-478e-b6e2-c61cc488b13e">
+
 
 # How to use: 
 1. Clone the repository
